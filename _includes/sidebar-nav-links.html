@@ -1,7 +1,7 @@
 <nav id="sidebar-nav-links">
   {% if site.sidebar_home_link %}
     <a class="home-link {% if page.url == '/' %} active{% endif %}"
-        href="{{ "/" | relative_url }}">Home</a>
+        href="{{ "/" | relative_url }}">Clases</a>
   {% endif %}
   {% if site.sidebar_blog_link %}
     <a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}"
@@ -13,6 +13,8 @@
     `sidebar_link: true` in the front-matter. See readme for usage.
   {% endcomment %}
 
+  <a href="">Blog</a>
+  
   {% include page-links.html %}
   {% include category-links.html %}
 
