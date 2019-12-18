@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "post2"
+title: "Edge Case: No Body Content"
 excerpt: "This post has no body content and should be blank on the post's page."
 categories:
   - Edge Case
