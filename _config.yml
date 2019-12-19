@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Medina Blog
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      'A Software Engineer Student'
 url:              
 baseurl:          ''
@@ -14,9 +14,17 @@ baseurl:          ''
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:title/
+
 author:
-  name:           'Medina'
-  url:            
+  name: 'Medina'
+  url:  ''
+  github-user: 'NigelMedina28'         
+  facebook-user: 'Nigelo09'
+  instagram-user: 'nigelmedina9' 
 
 paginate:         5
 # paginate_path:    '/page:num'

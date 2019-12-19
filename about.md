@@ -4,10 +4,6 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Mi nombre es Nigel Medina, tengo 17 años, vivo en el cantón Naranjito provincia del guayas.
+Actualmente estoy en primer semestre de la carrera de Ingeniería de Software. 
+Escogí esta carrera por que deseo aprender algo nuevo y experimentar más sobre este trayecto.

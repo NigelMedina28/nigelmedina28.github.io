@@ -1,0 +1,137 @@
+I"I<h2 id="definición-de-is">Definición de IS</h2>
+
+<p>La ingeniería de software es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.</p>
+
+<h2 id="objetivos-de-la-is">Objetivos de la IS</h2>
+
+<ul>
+  <li>Diseñar programas informáticos que se adecúen a las exigencias de la sociedad.</li>
+  <li>Liderar y acoplar el desarrollo de programaciones complicadas.</li>
+  <li>Actuar en todas las fases del ciclo de vida de un producto.</li>
+  <li>Computar los costos de un proyecto y evaluar los tiempos de desarrollo.</li>
+  <li>Realizar el seguimiento de costes y plazos.</li>
+  <li>Liderar equipos de trabajo de desarrollo software.</li>
+  <li>Estructurar la elaboración de evidencias que comprueben el perfecto funcionamiento de los programas y que se adaptan a los requerimientos de análisis y diseño.</li>
+  <li>Diseñar, construir y administrar bases de datos.</li>
+  <li>Liderar y orientar a los programadores durante el desarrollo de aplicaciones.</li>
+  <li>Incluir procesos de calidad en los sistemas, calculando métricas e indicadores y chequeando la calidad del software producido.</li>
+</ul>
+
+<h2 id="origen-de-is">Origen de IS</h2>
+
+<p>Ingeniería del Software, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.</p>
+
+<p>Puede definirse según Alan Davis como “la aplicación inteligente de principios probados, técnicas, lenguajes y herramientas para la creación y mantenimiento, dentro de un coste razonable, de software que satisfaga las necesidades de los usuarios”.</p>
+
+<p>Su origen se debió a que el entorno de desarrollo de sistemas software adolecía de:</p>
+
+<ul>
+  <li>Retrasos considerables en la planificación.</li>
+  <li>Poca productividad.</li>
+  <li>Elevadas cargas de mantenimiento.</li>
+  <li>Demandas cada vez más desfasadas frente a las ofertas.</li>
+  <li>Baja calidad y fiabilidad del producto.</li>
+  <li>Dependencia de los realizadores.</li>
+</ul>
+
+<p>Esto es lo que se ha denominado habitualmente “crisis del software”, que históricamente se generó en los siguientes pasos:</p>
+
+<h3 id="primera-fase-los-albores-1945-1955">Primera Fase. Los albores (1945-1955)</h3>
+
+<ul>
+  <li>Programar no es una tarea diferenciada del diseño de una máquina.</li>
+  <li>Uso de lenguaje máquina y ensamblador.</li>
+</ul>
+
+<h3 id="segunda-fase-el-florecimiento-1955-1965">Segunda Fase. El florecimiento (1955-1965)</h3>
+
+<ul>
+  <li>Aparecen multitud de Se pensaba que era posible hacer casi todo.</li>
+</ul>
+
+<h3 id="tercera-fase-la-crisis-1965-1970">Tercera Fase. La crisis (1965-1970)</h3>
+
+<ul>
+  <li>Desarrollo inacabable de grandes programas Ineficiencia, errores, coste impredecible.</li>
+</ul>
+
+<h3 id="cuarta-fase-innovación-conceptual-1970-1980">Cuarta Fase. Innovación conceptual (1970-1980)</h3>
+
+<ul>
+  <li>Fundamentos de programación.</li>
+  <li>Verificación de programas.</li>
+  <li>Metodologías de diseño.</li>
+</ul>
+
+<h3 id="quinta-fase-el-diseño-es-el-problema-1980-">Quinta Fase. El diseño es el problema (1980-?)</h3>
+
+<ul>
+  <li>Entornos de programación.</li>
+  <li>Especificación formal.</li>
+  <li>Programación automática.</li>
+</ul>
+
+<h2 id="la-evolución-del-software">La evolución del software</h2>
+
+<p>El término “evolución” del software se utiliza desde los sesenta para denominar la dinámica de crecimiento del software.</p>
+
+<p>Una definición atribuida a Lehman y Ramil dice que la evolución del software es “todas las actividades de programación que se orientan a generar una nueva versión de un software a partir de una versión anterior operativa.</p>
+
+<p>La guía SWEBOK2 considera que la causa del mantenimiento está tanto en la necesidad de “cambios” como de “evolución” en el software.</p>
+
+<p>De estas definiciones se desprende que la evolución cubre el ajuste a funcionalidades adicionales.</p>
+
+<h2 id="la-crisis-del-software">La crisis del software</h2>
+
+<h3 id="cómo-se-define-crisis">¿Cómo se define crisis</h3>
+
+<p>La palabra crisis se define en el diccionario como “un punto decisivo en el curso de algo; momento, etapa, o evento decisivo o crucial”. Sin embargo para el software no ha habido ningún punto crucial, sólo una lenta evolución.</p>
+
+<p>La crisis en la industria del software permanece durante muchos años lo cual parece una contradicción para el término. Lo que si se podría decir es que hay un problema crónico en el desarrollo de software.</p>
+
+<p>Actualmente está surgiendo una gran expectativa ante la evolución de la Ingeniería del Software, al ir apareciendo nuevos métodos y herramientas formales que van a permitir en el futuro un planteamiento de ingeniería en el proceso de elaboración de software.</p>
+
+<p>Dicho planteamiento permitirá dar respuesta a los problemas de:</p>
+
+<ul>
+  <li>Administración</li>
+  <li>Calidad</li>
+  <li>Productividad</li>
+  <li>Fácil mantenimiento</li>
+</ul>
+
+<p>Este último es uno de los grandes problemas, pues puede llegar a suponer un importe superior al 60% del total del coste del software.</p>
+
+<h3 id="por-qué-se-crea-la-is">¿Por qué se crea la IS</h3>
+
+<p>La ingeniería de software se crea debido a las siguientes características:</p>
+
+<ul>
+  <li>El producto debe ser confiable y realizar sólo las tareas especificadas en los requerimientos.</li>
+  <li>El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio.</li>
+  <li>El producto de software debe ser lo más reutilizable posible, de manera tal que pueda ser incorporado en otro producto de software si se requiere.</li>
+  <li>El producto de software debe ser eficiente en el uso de los recursos del sistema.</li>
+  <li>Se requiere desarrollar el software en una manera que lo haga evolutivo, de forma tal que se pueda agregar funcionalidad adicional sin efectos perjudiciales.</li>
+  <li>El producto de software debe cumplir con los requerimientos de rendimiento especificados, es decir, debe cumplir algunas de las restricciones relacionadas al rendimiento.</li>
+  <li>El producto de software tendrá mayor valor si es portable, es decir que puede trabajar bajo diferentes plataformas de software y ambientes (hardware, sistemas operativos, etc.).</li>
+  <li>El producto de software debe ser utilizable, es decir, el aprendizaje de su uso debe ser los suficientemente sencillo por parte de personas no especialistas.</li>
+</ul>
+
+<p>Las direcciones en las que evoluciona la ingeniería del software hoy en día pueden agruparse de la siguiente manera:</p>
+
+<h3 id="metodologías-ágiles">Metodologías ágiles</h3>
+
+<p>métodos de desarrollo de software basados en procesos iterativos e incrementales, donde los requisitos y soluciones evolucionan durante la colaboración. Metodologías como Scrum (1995), Extreme Programming (1999) o DSDM (1995) fueron evolucionando hasta que en Febrero del 2001 se publicó “Manifesto for Agile Software Development” para definir la aproximación ahora conocida como metodologías ágiles.</p>
+
+<h3 id="experimentación">Experimentación</h3>
+
+<p>es una rama de la ingeniería del software interesada en realizar experimentos sobre software, recolectar datos y deducir leyes y teorías de los mismos.</p>
+
+<h3 id="desarrollo-dirigido-por-modelos">Desarrollo dirigido por modelos</h3>
+
+<p>primero se desarrollan modelos textuales gráficos del software a construir, y posteriormente se construye el software.</p>
+
+<h3 id="líneas-de-productos-software">Líneas de productos software</h3>
+
+<p>En lugar de productos individuales.</p>
+:ET

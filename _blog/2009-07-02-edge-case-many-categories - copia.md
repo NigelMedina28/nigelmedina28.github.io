@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edge Case: Many Categories"
+title: "Blog 3"
 categories:
   - aciform
   - antiquarianism
