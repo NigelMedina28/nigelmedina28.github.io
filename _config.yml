@@ -16,7 +16,7 @@ baseurl:          ''
 
 profile-img:
   url: '' # url completa (http o https)
-  img-source: '' # Por defecto /assets/img/profile.jpg
+  img-source: '' # Por defecto /assets/img/profile.jpg 
 
 collections:
   blog:
