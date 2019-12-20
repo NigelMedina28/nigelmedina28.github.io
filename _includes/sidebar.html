@@ -16,7 +16,13 @@
         {% endif %} >
 
       </a>
-      <a class="title-text" href="{{ "/" | relative-url}}">
+      <a class="title-text" href=
+      {% if site.profile-img.url == '' %}
+        "{{ "/" | relative-url}}"
+        {% else %}
+        "{{site.profile-img.url}}"
+        {% endif %} >
+        
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
