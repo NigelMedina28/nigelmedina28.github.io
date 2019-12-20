@@ -212,7 +212,6 @@ body {
 
 #sidebar a {
   color: $sidebar-link-color;
-  
 
   svg {
     fill: $sidebar-icon-color;
@@ -232,6 +231,12 @@ body {
   &.active {
     font-weight: bold;
   }
+}
+
+.title-text{
+  font-size: 48px;
+  display:block;
+  text-align: center;
 }
 
 #sidebar .site-title {

@@ -1,7 +1,22 @@
 <div id="sidebar">
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-      <a href="{{ "/" | relative_url }}">
+      <a href= 
+        {% if site.profile-img.url == '' %}
+        "/about.html"
+        {% else %}
+        "{{site.profile-img.url}}"
+        {% endif %}>
+
+        <img class="profile-img" src=
+        {% if site.profile-img.img-source == '' %}
+        "/assets/img/profile.jpg"
+        {% else %}
+        "{{site.profile-img.img-source}}"
+        {% endif %} >
+        
+      </a>
+      <a class="title-text" href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
