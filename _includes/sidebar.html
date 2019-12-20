@@ -3,7 +3,7 @@
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href= 
         {% if site.profile-img.url == '' %}
-        "/about.html"
+        "{{ "/" | relative-url}}"
         {% else %}
         "{{site.profile-img.url}}"
         {% endif %}>
@@ -16,7 +16,7 @@
         {% endif %} >
 
       </a>
-      <a class="title-text" href="/about.html">
+      <a class="title-text" href="{{ "/" | relative-url}}">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
@@ -28,7 +28,7 @@
   {% include sidebar-nav-links.html %}
 
   {% if site.version %}
-    <span class="site-version">Currently v{{ site.version }}</span>
+    <span class="site-version">Currently {{ site.version }}</span>
   {% endif %}
 
   {% include sidebar-icon-links.html %}

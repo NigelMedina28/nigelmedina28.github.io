@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /
 sidebar_link: true
 ---
 
